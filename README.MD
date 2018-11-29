@@ -1,5 +1,5 @@
 # Authors
 * AUBERT Adrien
 * DARROU Cédric
-* DRUOT Vincent
+* DROUOT Vincent
 * RIBEYRE Virgil
