@@ -1,0 +1,9 @@
+STRUCTURE Carte
+  NUM valeur
+  CHAINE couleur
+  BOOLEEN estVisible
+FINSTRUCTURE
+
+TYPEDEF T_liste
+  LISTE DE Carte
+FINTD
