@@ -1,0 +1,6 @@
+//Algo qui permet de switch les cartes 2 à deux (permet de mélanger le jeu)
+SSALGO Switch2Card (x en NUMERIQUE)
+VARIABLES
+	temp en Carte
+	pos1, pos2 en NUMERIQUE
+DEBUT
